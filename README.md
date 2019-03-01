@@ -1,6 +1,17 @@
 # Weather-App
 This is a weather application done with React to understand its fundamental principles. This was done based on a video by Hamza Mirza on a React&API video.
 
+## Presentational Images
+The following section will present some snapshots of the game while running
+
+##### Landing Page
+![](Images/Weather1.png)
+##### Weather in Vancouver, Canada
+![](Images/Weather2.png)
+##### Weather in San Jose, Costa Rica
+![](Images/Weather3.png)
+
+
 ## Getting Started
 To install the application in your local machine, follow the next steps.
 
