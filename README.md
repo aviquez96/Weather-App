@@ -1,4 +1,4 @@
-# Weather-App
+# Weather-Tracker
 This is a weather application done with React to understand its fundamental principles. This was done based on a video by Hamza Mirza on a React&API video.
 
 ## Presentational Images
